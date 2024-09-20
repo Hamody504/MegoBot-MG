@@ -3,9 +3,9 @@ let handler = m => m;
  handler.all = async function (m) { 
  let chat = global.db.data.chats[m.chat]; 
  let responses; 
- if (/^ميجو$/i.test(m.text)) { 
+ if (/^آلشيخ | 𝑯𝑨𝑴𝑶𝑫𝒀$/i.test(m.text)) { 
  responses = [ 
- 'تحت امرك حبي'
+  'تحت امرك ياقلبيي'
  ]; 
  } else if (/^بوووت|بموووووووووت|بوت$/i.test(m.text)) { 
      responses = [ 
