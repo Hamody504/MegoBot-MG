@@ -10,11 +10,11 @@ import moment from 'moment-timezone';
 global.botnumber = "*آلشيخ | 𝑯𝑨𝑴𝑶𝑫𝒀*"
 global.confirmCode = ""
 
-global.owner = [['201064739827', 'آلشيخ | 𝑯𝑨𝑴𝑶𝑫𝒀', true],
+global.owner = [['201500881813', 'آلشيخ | 𝑯𝑨𝑴𝑶𝑫𝒀', true],
 ];
 
 global.suittag = ['201064739827'];
-global.prems = ['201064739827'];
+global.prems = ['201500881813'];
 
 global.packname = '☾︎ آلشيخ | 𝑯𝑨𝑴𝑶𝑫𝒀 ☽︎';
 global.author = '✩آلشيخ | 𝑯𝑨𝑴𝑶𝑫𝒀☆';
